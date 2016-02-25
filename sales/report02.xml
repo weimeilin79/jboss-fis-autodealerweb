@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opportunities>
+<oppo>
+		<custName>Eithne Guinness</custName>
+		<discount>10</discount>
+		<phone>899-379-6304</phone>
+		<type>Open</type>
+		<stage>Quate</stage>
+		<vehicleId>vno05</vehicleId>
+		<openDate>2016-02-01</openDate>
+</oppo>
+<oppo>
+		<custName>﻿Basim Rundstrom</custName>
+		<discount>15</discount>
+		<phone>822-027-3696</phone>
+		<type>Open</type>
+		<stage>Quate</stage>
+		<vehicleId>vno02</vehicleId>
+		<openDate>2016-01-27</openDate></oppo>
+<oppo>
+		<custName>﻿Antiochus Quattrocchi</custName>
+		<discount>10</discount>
+		<phone>844-177-1093</phone>
+		<type>Open</type>
+		<stage>Negotiating</stage>
+		<vehicleId>vno06</vehicleId>
+		<openDate>2016-01-04</openDate></oppo>
+<oppo>
+		<custName>﻿Ebbe Vroomen</custName>
+		<discount>11</discount>
+		<phone>8﻿99-040-8802</phone>
+		<type>Open</type>
+		<stage>Quate</stage>
+		<vehicleId>vno06</vehicleId>
+		<openDate>2016-01-27</openDate></oppo>
+<oppo>
+		<custName>Ally Rains</custName>
+		<discount>20</discount>
+		<phone>833-237-7152</phone>
+		<type>Won</type>
+		<stage>Closed</stage>
+		<vehicleId>vno08</vehicleId>
+		<openDate>2016-01-10</openDate></oppo>
+<oppo>
+		<custName>Camila Cojocaru</custName>
+		<discount>15</discount>
+		<phone>811-904-2408</phone>
+		<type>Open</type>
+		<stage>Negotiating</stage>
+		<vehicleId>vno04</vehicleId>
+		<openDate>2016-01-19</openDate></oppo>
+<oppo>
+		<custName>Iarfhlaith Lèmmi</custName>
+		<discount>15</discount>
+		<phone>811-862-3701</phone>
+		<type>Open</type>
+		<stage>Quate</stage>
+		<vehicleId>vno06</vehicleId>
+		<openDate>2016-01-30</openDate></oppo>
+<oppo>
+		<custName>Tex Montagne</custName>
+		<discount>10</discount>
+		<phone>833-274-6236</phone>
+		<type>Open</type>
+		<stage>Negotiating</stage>
+		<vehicleId>vno05</vehicleId>
+		<openDate>2016-02-02</openDate></oppo>
+</opportunities>

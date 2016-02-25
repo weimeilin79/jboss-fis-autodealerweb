@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opportunities>
+ <oppo>
+		<custName>Pasqualino Daryush</custName>
+		<discount>15</discount>
+		<phone>202-555-0132</phone>
+		<type>Lost</type>
+		<stage>Closed</stage>
+		<vehicleId>vno01</vehicleId>
+		<openDate>2016-01-01</openDate>
+ </oppo>
+ <oppo>
+		<custName>Tone Manuel</custName>
+		<discount>15</discount>
+		<phone>512-556-0133</phone>
+		<type>Won</type>
+		<stage>Closed</stage>
+		<vehicleId>vno02</vehicleId>
+		<openDate>2016-01-02</openDate>
+ </oppo>
+ <oppo>
+		<custName>Amis Giancarlo</custName>
+		<discount>10</discount>
+		<phone>832-697-3381</phone>
+		<type>Won</type>
+		<stage>Closed</stage>
+		<vehicleId>vno06</vehicleId>
+		<openDate>2016-01-04</openDate>
+ </oppo>
+ <oppo>
+		<custName>Mary Lea</custName>
+		<discount>11</discount>
+		<phone>952-461-7909</phone>
+		<type>Lost</type>
+		<stage>Closed</stage>
+		<vehicleId>vno06</vehicleId>
+		<openDate>2016-01-18</openDate>
+ </oppo>
+ <oppo>
+		<custName>Charles K. Elliott</custName>
+		<discount>20</discount>
+		<phone>830-296-8320</phone>
+		<type>Won</type>
+		<stage>Closed</stage>
+		<vehicleId>vno07</vehicleId>
+		<openDate>2016-01-05</openDate>
+ </oppo>
+ <oppo>
+		<custName>Joanne Gruver</custName>
+		<discount>15</discount>
+		<phone>952-461-7909</phone>
+		<type>Open</type>
+		<stage>Negotiating</stage>
+		<vehicleId>vno05</vehicleId>
+		<openDate>2016-01-16</openDate>
+ </oppo>
+ <oppo>
+		<custName>Scott M. Nystrom</custName>
+		<discount>15</discount>
+		<phone>504-248-3491</phone>
+		<type>Open</type>
+		<stage>Quate</stage>
+		<vehicleId>vno07</vehicleId>
+		<openDate>2016-01-11</openDate>
+ </oppo>
+ <oppo>
+		<custName>Stephanie Marshall</custName>
+		<discount>10</discount>
+		<phone>718-583-3616</phone>
+		<type>Lost</type>
+		<stage>Negotiating</stage>
+		<vehicleId>vno05</vehicleId>
+		<openDate>2016-01-01</openDate>
+ </oppo>
+ <oppo>
+		<custName>John A. Spencer</custName>
+		<discount>15</discount>
+		<phone>917-601-5750</phone>
+		<type>Open</type>
+		<stage>Quate</stage>
+		<vehicleId>vno04</vehicleId>
+		<openDate>2016-01-18</openDate>
+ </oppo>
+ <oppo>
+		<custName>Charles Wall</custName>
+		<discount>10</discount>
+		<phone>970-264-8238</phone>
+		<type>Open</type>
+		<stage>Negotiating</stage>
+		<vehicleId>vno03</vehicleId>
+		<openDate>2016-01-﻿17</openDate>
+ </oppo>
+ <oppo>
+		<custName>Keely Delvalle</custName>
+		<discount>15</discount>
+		<phone>612-318-4013</phone>
+		<type>Open</type>
+		<stage>Quate</stage>
+		<vehicleId>vno05</vehicleId>
+		<openDate>2016-01-﻿19</openDate>
+ </oppo>
+ <oppo>
+		<custName>Christopher Murphy</custName>
+		<discount>12</discount>
+		<phone>207-643-028</phone>
+		<type>Open</type>
+		<stage>Negotiating</stage>
+		<vehicleId>vno01</vehicleId>
+		<openDate>﻿2016-01-21</openDate>
+ </oppo>
+ <oppo>
+		<custName>Yolanda D. Willems</custName>
+		<discount>15</discount>
+		<phone>765-265-8972</phone>
+		<type>Won</type>
+		<stage>Quate</stage>
+		<vehicleId>vno04</vehicleId>
+		<openDate>2016-01-22</openDate>
+ </oppo>
+ <oppo>
+		<custName>Richard Webster</custName>
+		<discount>10</discount>
+		<phone>720-839-7540</phone>
+		<type>Open</type>
+		<stage>Quate</stage>
+		<vehicleId>vno03</vehicleId>
+		<openDate>2016-01-27</openDate>
+ </oppo>
+ <oppo>
+		<custName>Stephanie D. Ling</custName>
+		<discount>12</discount>
+		<phone>803-594-6576</phone>
+		<type>Open</type>
+		<stage>LQuate</stage>
+		<vehicleId>vno02</vehicleId>
+		<openDate>2016-01-29</openDate>
+ </oppo>
+</opportunities>
