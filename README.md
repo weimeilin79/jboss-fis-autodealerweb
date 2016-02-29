@@ -1,8 +1,8 @@
 # Fuse Integration Service - Auto Dealership Management System
 This application is a Javascript HTML web application support JBoss Fuse Integration Service application, Auto Dealership Management System. 
 
-`JBoss Fuse Integration Service
-https://github.com/weimeilin79/jboss-fis-autodealer`
+JBoss Fuse Integration Service
+`https://github.com/weimeilin79/jboss-fis-autodealer`
 
 In this simple application, it contains two major functions: 
 
