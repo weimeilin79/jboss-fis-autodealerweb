@@ -28,7 +28,11 @@ You will now see the application building, with a pod running.
 To access the application:
 
  1. Sales Report 
+ 
  http://mydemo-phpdemo.cdk.10.1.2.2.xip.io/sales/sales.html
+ 
  2. GPS location generator and alert console
+ 
  http://mydemo-phpdemo.cdk.10.1.2.2.xip.io/gps/startGPSlocation.html
+ 
  http://mydemo-phpdemo.cdk.10.1.2.2.xip.io/gps/vehiclenearbyconsole.html
