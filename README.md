@@ -1,5 +1,10 @@
 # Fuse Integration Service - Auto Dealership Management System
-This application is a Javascript HTML web application support JBoss Fuse Integration service application, Auto Dealership Management System. In this simple application, it contains two major functions: 
+This application is a Javascript HTML web application support JBoss Fuse Integration Service application, Auto Dealership Management System. 
+
+`JBoss Fuse Integration Service
+https://github.com/weimeilin79/jboss-fis-autodealer`
+
+In this simple application, it contains two major functions: 
 
 1. Sales Report 
 2. GPS location generator and alert console
